@@ -11,7 +11,7 @@ TODO:
 ...
 diaglog approach:
 
-# 
+
 while true; do
   clear
   check_and_update_history
@@ -33,6 +33,6 @@ while true; do
   fi
   read -e -p "Hit enter to continue"
 done
-# ...
+ ...
 
 
