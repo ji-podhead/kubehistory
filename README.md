@@ -10,15 +10,20 @@ you can select the kubectl command by its index and edit it before executing.
 `roadmap
 `
 <br>
--scroll trough commands in edit mode using arrows, or mousewheel using dialog.
-<br>
--send command output to a different tty/stdin using exsel or screen.
-<br>
--fire functions that are not in the history using something like inspect in python. in python you can fire functions genericly and get the method descriptions etc. (but not sure how to do this in bash script.
-<br>
--use some sort of multiplexer with the dialog method to make use of the mouse to click on nodes/pods/namespace etc to select and then choose one of the given functions and add  possible flags. then paste intoo console and let user edit it  
 
-<br>
+
+- scroll trough commands in edit mode using arrows, or mousewheel using dialog.
+
+
+- send command output to a different tty/stdin using exsel or screen.
+
+
+- fire functions that are not in the history using something like inspect in python. in python you can fire functions genericly and get the method descriptions etc. (but not sure how to do this in bash script.
+
+
+- use some sort of multiplexer with the dialog method to make use of the mouse to click on nodes/pods/namespace etc to select and then choose one of the given functions and add  possible flags. then paste intoo console and let user edit it  
+
+
 `diaglog approach:`
 <br>
 
