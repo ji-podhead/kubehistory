@@ -10,7 +10,7 @@ you can select the kubectl command by its index and edit it before executing.
 `roadmap
 `
 <br>
-
+- remove double entries not working
 
 - scroll trough commands in edit mode using arrows, or mousewheel using dialog.
 
