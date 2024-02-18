@@ -1,17 +1,24 @@
 
+#
 kubehistory is a little bashscript that helps you to find kubectl commands using the command history.
+<br>
 you can select the kubectl command by its index and edit it before executing.
-
-
+#
+![preview](https://github.com/ji-soft/kubehistory/blob/main/preview.png?raw=true)
+<br>
+<br>
 `roadmap
 `
 <br>
 -scroll trough commands in edit mode using arrows, or mousewheel using dialog.
 <br>
 -send command output to a different tty/stdin using exsel or screen.
-![preview:]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/ji-soft/kubehistory/blob/main/preview.png?raw=true)
+
+
 <br>
-`diaglog approach`:
+`diaglog approach:`
+<br>
+
 ```
 
 while true; do
